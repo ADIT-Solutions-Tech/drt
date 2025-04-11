@@ -11,6 +11,9 @@ jobs:
     runs-on: [self-hosted]
 
     steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
     - name: Install App Dependencies
       run: |
         npm install
