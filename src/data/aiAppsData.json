@@ -1,0 +1,776 @@
+{
+  "categories": [
+  {
+    "name": "AI Chatbot",
+    "description": "Tools that provide text-based or voice-based conversational interfaces. Can handle tasks like roleplay, Q&A, and support.",
+    "classification": "Primary",
+    "extraInfo": {
+      "logo": "/icons/ai-chatbot.png",
+      "screenshot": "/images/ai-chatbot-ss.png",
+      "numApps": 6,
+      "numUsers": "4.2M",
+      "platforms": ["Web", "iOS", "Android"],
+      "features": [
+        "Custom personalities",
+        "Voice & text chat",
+        "NSFW toggle",
+        "Prompt memory",
+        "Private mode",
+        "Typing simulation",
+        "Scene presets",
+        "Multilingual support"
+      ]
+    }
+  },
+  {
+    "name": "AI Image Generator",
+    "description": "Tools that create entirely new images using AI — from sketches, prompts, or data inputs (e.g., diffusion models).",
+    "classification": "Primary",
+    "extraInfo": {
+      "logo": "/icons/ai-image-generator.png",
+      "screenshot": "/images/ai-image-generator-ss.png",
+      "numApps": 8,
+      "numUsers": "6.8M",
+      "platforms": ["Web", "Android", "Windows"],
+      "features": [
+        "Diffusion models",
+        "Prompt enhancer",
+        "Style presets",
+        "Batch generation",
+        "NSFW filters",
+        "Custom anatomy",
+        "Face correction",
+        "Upscaling tools"
+      ]
+    }
+  },
+  {
+    "name": "AI Video Generator",
+    "description": "Tools that produce original video content using AI-generated animations or transformations.",
+    "classification": "Primary",
+    "extraInfo": {
+      "logo": "/icons/ai-video-generator.png",
+      "screenshot": "/images/ai-video-generator-ss.png",
+      "numApps": 2,
+      "numUsers": "1.1M",
+      "platforms": ["Web", "Windows"],
+      "features": [
+        "AI lip sync",
+        "Scene builder",
+        "Model overlays",
+        "Prompt-to-video",
+        "Audio sync tools",
+        "Frame interpolation",
+        "Export templates",
+        "Cinematic lighting"
+      ]
+    }
+  },
+  {
+    "name": "AI Voice Generator",
+    "description": "Tools that synthesize realistic human-like speech using text or cloned voice data.",
+    "classification": "Primary",
+    "extraInfo": {
+      "logo": "/icons/ai-voice-generator.png",
+      "screenshot": "/images/ai-voice-generator-ss.png",
+      "numApps": 3,
+      "numUsers": "2.3M",
+      "platforms": ["Web", "iOS"],
+      "features": [
+        "Voice cloning",
+        "NSFW tone filters",
+        "Real-time playback",
+        "Emotional presets",
+        "Multilingual support",
+        "Pitch modulation",
+        "Downloadable MP3",
+        "Script sync"
+      ]
+    }
+  },
+  {
+    "name": "AI Story Generator",
+    "description": "Narrative-focused tools that generate stories or erotic content based on prompts.",
+    "classification": "Primary",
+    "extraInfo": {
+      "logo": "/icons/ai-story-generator.png",
+      "screenshot": "/images/ai-story-generator-ss.png",
+      "numApps": 4,
+      "numUsers": "1.5M",
+      "platforms": ["Web"],
+      "features": [
+        "Live editing",
+        "Character memory",
+        "Erotic intensity control",
+        "Genre switching",
+        "Multichapter support",
+        "Export as PDF",
+        "Tag filtering",
+        "NSFW narrator styles"
+      ]
+    }
+  },
+  {
+    "name": "AI Photo and Video Editor",
+    "description": "Tools that enhance, filter, or modify media using AI — such as background removal or face edits.",
+    "classification": "Primary",
+    "extraInfo": {
+      "logo": "/icons/ai-photo-editor.png",
+      "screenshot": "/images/ai-photo-editor-ss.png",
+      "numApps": 5,
+      "numUsers": "3.9M",
+      "platforms": ["Web", "Windows"],
+      "features": [
+        "Auto blur NSFW",
+        "Face swap tool",
+        "Skin enhancements",
+        "AI nudify filters",
+        "Angle correction",
+        "Face merge",
+        "Batch edits",
+        "Export to HD"
+      ]
+    }
+  },
+  {
+    "name": "AI Deepfake",
+    "description": "Advanced tools for creating realistic face/voice swaps in media.",
+    "classification": "Secondary",
+    "extraInfo": {
+      "logo": "/icons/ai-deepfake.png",
+      "screenshot": "/images/ai-deepfake-ss.png",
+      "numApps": 2,
+      "numUsers": "1.6M",
+      "platforms": ["iOS", "Android"],
+      "features": [
+        "Realistic face swap",
+        "Template library",
+        "Secure rendering",
+        "Gesture matching",
+        "Sound sync",
+        "HD export",
+        "Motion blur removal",
+        "Timeline editor"
+      ]
+    }
+  },
+  {
+    "name": "AI Face Swap",
+    "description": "Tools that replace faces in images or videos, often used for entertainment.",
+    "classification": "Secondary",
+    "extraInfo": {
+      "logo": "/icons/ai-face-swap.png",
+      "screenshot": "/images/ai-face-swap-ss.png",
+      "numApps": 3,
+      "numUsers": "2.1M",
+      "platforms": ["Web"],
+      "features": [
+        "Two-face blend",
+        "Morph animation",
+        "Expression match",
+        "Anatomy adjust",
+        "Filter presets",
+        "Export as GIF",
+        "Blur correction",
+        "Secure upload"
+      ]
+    }
+  },
+  {
+    "name": "AI Nudify",
+    "description": "AI models designed to remove or alter clothing in existing media.",
+    "classification": "Secondary",
+    "extraInfo": {
+      "logo": "/icons/ai-nudify.png",
+      "screenshot": "/images/ai-nudify-ss.png",
+      "numApps": 4,
+      "numUsers": "2.9M",
+      "platforms": ["Web", "Windows"],
+      "features": [
+        "Prompt nudify",
+        "Photo realism",
+        "Skin tone match",
+        "Safe preview",
+        "Real-time edits",
+        "NSFW masking",
+        "AI render styles",
+        "Anatomy engine"
+      ]
+    }
+  },
+  {
+    "name": "AI Porn",
+    "description": "Tools producing or enabling explicit adult content not already covered by other subcategories.",
+    "classification": "Secondary",
+    "extraInfo": {
+      "logo": "/icons/ai-porn.png",
+      "screenshot": "/images/ai-porn-ss.png",
+      "numApps": 7,
+      "numUsers": "5.5M",
+      "platforms": ["Web", "Android"],
+      "features": [
+        "Prompt-based erotica",
+        "Full scene generation",
+        "Audio + visual sync",
+        "Fetish filtering",
+        "Multi-character",
+        "Secure login",
+        "Dark mode",
+        "Downloadable content"
+      ]
+    }
+  },
+  {
+    "name": "AI Sexting Companion",
+    "description": "AI companions offering flirtatious or romantic NSFW chat interactions.",
+    "classification": "Secondary",
+    "extraInfo": {
+      "logo": "/icons/ai-sexting.png",
+      "screenshot": "/images/ai-sexting-ss.png",
+      "numApps": 5,
+      "numUsers": "3.3M",
+      "platforms": ["Web", "iOS", "Android"],
+      "features": [
+        "NSFW chat flows",
+        "Flirty personalities",
+        "Safe words",
+        "Session history",
+        "Scene simulation",
+        "Erotic language models",
+        "Mobile access",
+        "Roleplay builder"
+      ]
+    }
+  },
+  {
+    "name": "AI Anime",
+    "description": "Anime-inspired tools — often featuring stylized visuals or chat styles.",
+    "classification": "Secondary",
+    "extraInfo": {
+      "logo": "/icons/ai-anime.png",
+      "screenshot": "/images/ai-anime-ss.png",
+      "numApps": 6,
+      "numUsers": "3.8M",
+      "platforms": ["Web"],
+      "features": [
+        "Anime models",
+        "Waifu generators",
+        "Style blending",
+        "Pose animation",
+        "Loli & ahegao filters",
+        "Scene scripting",
+        "Furry compatibility",
+        "NSFW toggles"
+      ]
+    }
+  },
+  {
+    "name": "AI Hentai",
+    "description": "NSFW tools focused on explicit anime-style adult content (e.g., loli, ahegao, etc).",
+    "classification": "Secondary",
+    "extraInfo": {
+      "logo": "/icons/ai-hentai.png",
+      "screenshot": "/images/ai-hentai-ss.png",
+      "numApps": 5,
+      "numUsers": "4.5M",
+      "platforms": ["Web"],
+      "features": [
+        "Explicit prompts",
+        "Anatomy tools",
+        "Fetish sliders",
+        "Scene intensity toggle",
+        "Loli filter",
+        "Style presets",
+        "Voice-over sync",
+        "Script generation"
+      ]
+    }
+  },
+  {
+    "name": "AI BDSM & Fetish",
+    "description": "Tools exploring power dynamics and fetish themes (dominant/submissive).",
+    "classification": "Secondary",
+    "extraInfo": {
+      "logo": "/icons/ai-bdsm.png",
+      "screenshot": "/images/ai-bdsm-ss.png",
+      "numApps": 4,
+      "numUsers": "2.6M",
+      "platforms": ["Web"],
+      "features": [
+        "Dom/sub personalities",
+        "Mood engine",
+        "Punishment triggers",
+        "Role settings",
+        "Bondage visuals",
+        "Session logging",
+        "Scripted control",
+        "Trigger word detection"
+      ]
+    }
+  },
+  {
+    "name": "AI Furry",
+    "description": "Fursona/anthropomorphic character-based adult tools or image generation.",
+    "classification": "Secondary",
+    "extraInfo": {
+      "logo": "/icons/ai-furry.png",
+      "screenshot": "/images/ai-furry-ss.png",
+      "numApps": 5,
+      "numUsers": "3.2M",
+      "platforms": ["Web", "Windows"],
+      "features": [
+        "Anthro anatomy",
+        "Furry pose presets",
+        "Tail/ear customization",
+        "NSFW sliders",
+        "Character builder",
+        "Voice sync",
+        "Fur pattern selection",
+        "Scene composer"
+      ]
+    }
+  },
+  {
+    "name": "AI Gay",
+    "description": "NSFW tools tailored to gay male/male themes, imagery or chat experiences.",
+    "classification": "Secondary",
+    "extraInfo": {
+      "logo": "/icons/ai-gay.png",
+      "screenshot": "/images/ai-gay-ss.png",
+      "numApps": 3,
+      "numUsers": "2.4M",
+      "platforms": ["Web"],
+      "features": [
+        "MLM personalities",
+        "Explicit pose support",
+        "Romantic chat flow",
+        "Scene suggestion",
+        "Voice matching",
+        "NSFW scaling",
+        "Role flip toggle",
+        "Gay filter presets"
+      ]
+    }
+  }
+],
+  "apps": [
+    {
+      "id": 1,
+      "name": "ChatSweetie",
+      "excerpt": "Explore ChatSweetie for AI-generated NSFW stories, erotic roleplay chats, and customizable adult content powered by GPT-style models.",
+      "icon": "/icons/chatsweetie.png",
+      "bigImage": "/images/chatsweetie-large.png",
+      "nsfwLevel": "High",
+      "pricingTier": "Freemium",
+      "categories": ["AI Chatbot", "AI Hentai"],
+      "numApps": 120,
+      "numUsers": "1.2M",
+      "platforms": ["Web", "Android"],
+      "features": [
+        "Custom chatbot rules",
+        "Private sessions",
+        "Erotic prompt builder",
+        "Model fine-tuning",
+        "Daily rewards",
+        "Dark mode",
+        "Secure login",
+        "Roleplay archive"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "EHentai.ai",
+      "excerpt": "Engage with AI anime characters for roleplay, art generation, and secure NSFW experiences in a safe, private environment.",
+      "icon": "/icons/ehentai.png",
+      "bigImage": "/images/ehentai-large.png",
+      "nsfwLevel": "High",
+      "pricingTier": "Freemium",
+      "categories": ["AI Chatbot", "AI Hentai", "AI Sexting Companion"],
+      "numApps": 85,
+      "numUsers": "900K",
+      "platforms": ["Web"],
+      "features": [
+        "Anime personalities",
+        "Voice-enabled chat",
+        "Image generation",
+        "Safe mode toggle",
+        "Prompt memory",
+        "Favorites list",
+        "Custom avatars",
+        "Text-to-speech"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Dreamle",
+      "excerpt": "Create adult NSFW chatbots for roleplay or storytelling with customizable rules and privacy features.",
+      "icon": "/icons/dreamle.png",
+      "bigImage": "/images/dreamle-large.png",
+      "nsfwLevel": "Medium",
+      "pricingTier": "Paid",
+      "categories": ["AI Chatbot", "AI Sexting Companion", "AI Porn"],
+      "numApps": 42,
+      "numUsers": "420K",
+      "platforms": ["Web", "iOS"],
+      "features": [
+        "Private mode",
+        "Custom scenarios",
+        "Language support",
+        "Chat tagging",
+        "Typing simulation",
+        "Script library",
+        "API access",
+        "Multi-language"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "OpenArt AI",
+      "excerpt": "Generate stunning anime images, NSFW characters, and creative concepts using 100+ customizable AI art models.",
+      "icon": "/icons/openartai.png",
+      "bigImage": "/images/openartai-large.png",
+      "nsfwLevel": "High",
+      "pricingTier": "Freemium",
+      "categories": ["AI Image Generator", "AI Hentai", "AI Anime"],
+      "numApps": 60,
+      "numUsers": "750K",
+      "platforms": ["Web"],
+      "features": [
+        "Diffusion models",
+        "Style presets",
+        "NSFW toggle",
+        "Prompt tuner",
+        "Batch generation",
+        "Resolution enhancer",
+        "Face fixer",
+        "Prompt history"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "StarryAI",
+      "excerpt": "Convert text into high-quality NSFW artwork with customizable settings, privacy-first models, and flexible pricing.",
+      "icon": "/icons/starryai.png",
+      "bigImage": "/images/starryai-large.png",
+      "nsfwLevel": "High",
+      "pricingTier": "Free",
+      "categories": ["AI Image Generator", "AI Anime"],
+      "numApps": 33,
+      "numUsers": "300K",
+      "platforms": ["Web", "Android"],
+      "features": [
+        "Fast render",
+        "High-res output",
+        "Anime styles",
+        "Privacy lock",
+        "Frequent updates",
+        "Model selector",
+        "Watermark remover",
+        "Community prompts"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "AnimeHentai",
+      "excerpt": "Create anime-styled NSFW characters in 50+ styles using text prompts with full control over features, anatomy, and theme.",
+      "icon": "/icons/animehentai.png",
+      "bigImage": "/images/animehentai-large.png",
+      "nsfwLevel": "High",
+      "pricingTier": "Freemium",
+      "categories": ["AI Image Generator", "AI Hentai", "AI Furry", "AI BDSM & Fetish"],
+      "numApps": 70,
+      "numUsers": "950K",
+      "platforms": ["Web"],
+      "features": [
+        "Style transfer",
+        "Pose selector",
+        "Furry models",
+        "Explicit filter",
+        "Gesture tools",
+        "Prompt templates",
+        "Community voting",
+        "Anatomy presets"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "BetterWaifu",
+      "excerpt": "AI tool focused on generating highly stylized NSFW anime waifus with themes like futa, yuri, gay, or BDSM.",
+      "icon": "/icons/betterwaifu.png",
+      "bigImage": "/images/betterwaifu-large.png",
+      "nsfwLevel": "High",
+      "pricingTier": "Freemium",
+      "categories": ["AI Image Generator", "AI Hentai", "AI Gay", "AI BDSM & Fetish"],
+      "numApps": 4,
+      "numUsers": 800000,
+      "platforms": ["Web"],
+      "features": [
+        "Yuri and futa modes",
+        "Custom poses",
+        "Furry character integration",
+        "Style randomizer",
+        "Dark-mode UI"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Lovescape",
+      "excerpt": "NSFW chatbot designed to simulate romantic or erotic conversations with anime-inspired AI characters.",
+      "icon": "/icons/lovescape.png",
+      "bigImage": "/images/lovescape-large.png",
+      "nsfwLevel": "Medium",
+      "pricingTier": "Paid",
+      "categories": ["AI Chatbot", "AI Sexting Companion"],
+      "numApps": 2,
+      "numUsers": 600000,
+      "platforms": ["Web", "iOS"],
+      "features": [
+        "Personality selection",
+        "Erotic tone control",
+        "Anime voice simulation",
+        "Encrypted chat",
+        "Scene presets"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "ThotChat.ai",
+      "excerpt": "AI chat and image generation tool designed for explicit adult roleplay and encrypted conversations.",
+      "icon": "/icons/thotchat.png",
+      "bigImage": "/images/thotchat-large.png",
+      "nsfwLevel": "High",
+      "pricingTier": "Paid",
+      "categories": ["AI Chatbot", "AI Hentai", "AI Sexting Companion"],
+      "numApps": 3,
+      "numUsers": 750000,
+      "platforms": ["Web"],
+      "features": [
+        "Visual + text sync",
+        "Erotic mood levels",
+        "Persona library",
+        "Safe word configuration",
+        "Real-time NSFW image gen"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "PornWaifu.ai",
+      "excerpt": "Create anime NSFW images featuring furry characters, explicit anatomy, or creative poses. Ideal for fetish content.",
+      "icon": "/icons/pornwaifuai.png",
+      "bigImage": "/images/pornwaifuai-large.png",
+      "nsfwLevel": "High",
+      "pricingTier": "Paid",
+      "categories": ["AI Image Generator", "AI Furry", "AI Hentai"],
+      "numApps": 3,
+      "numUsers": 1000000,
+      "platforms": ["Web", "Android"],
+      "features": [
+        "Anatomy sliders",
+        "Furry/Anthro presets",
+        "Group render mode",
+        "Face merge engine",
+        "Fetish tag filters"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "RefaceAI",
+      "excerpt": "Swap faces in videos or images with one click. RefaceAI blends realism with entertainment, enabling high-quality AI deepfake creation.",
+      "icon": "/icons/refaceai.png",
+      "bigImage": "/images/refaceai-large.png",
+      "nsfwLevel": "Medium",
+      "pricingTier": "Freemium",
+      "categories": ["AI Deepfake", "AI Face Swap"],
+      "numApps": 1,
+      "numUsers": 1200000,
+      "platforms": ["iOS", "Android"],
+      "features": [
+        "One-click face swaps",
+        "HD output",
+        "Library of video templates",
+        "Secure data handling",
+        "Entertainment-focused"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "DeepnudeX",
+      "excerpt": "Generate realistic nudity overlays with AI. DeepnudeX supports advanced customization and censorship-safe previewing.",
+      "icon": "/icons/deepnudex.png",
+      "bigImage": "/images/deepnudex-large.png",
+      "nsfwLevel": "High",
+      "pricingTier": "Paid",
+      "categories": ["AI Nudify", "AI Porn"],
+      "numApps": 2,
+      "numUsers": 900000,
+      "platforms": ["Web"],
+      "features": [
+        "Pixel masking",
+        "Batch image processing",
+        "Anatomical sliders",
+        "Photo realism models",
+        "Secure preview mode"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "FurryForge",
+      "excerpt": "Design NSFW furry avatars and scenes with expressive poses and AI-generated animation frames.",
+      "icon": "/icons/furryforge.png",
+      "bigImage": "/images/furryforge-large.png",
+      "nsfwLevel": "High",
+      "pricingTier": "Freemium",
+      "categories": ["AI Furry", "AI Image Generator"],
+      "numApps": 3,
+      "numUsers": 500000,
+      "platforms": ["Web", "Windows"],
+      "features": [
+        "Anthro style options",
+        "Multi-pose generation",
+        "High-res rendering",
+        "NSFW scene builder",
+        "Custom background support"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "DominateAI",
+      "excerpt": "AI dominatrix roleplay with safe words, dynamic mood settings, and BDSM text interactions.",
+      "icon": "/icons/dominateai.png",
+      "bigImage": "/images/dominateai-large.png",
+      "nsfwLevel": "High",
+      "pricingTier": "Paid",
+      "categories": ["AI BDSM & Fetish", "AI Sexting Companion"],
+      "numApps": 1,
+      "numUsers": 300000,
+      "platforms": ["Web"],
+      "features": [
+        "Mood state toggles",
+        "Safe-word system",
+        "Multiple personas",
+        "Scripted roleplay",
+        "Realistic dialogue engine"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "MidnightMuse",
+      "excerpt": "Erotic storytelling and character-based fiction powered by natural language generation.",
+      "icon": "/icons/midnightmuse.png",
+      "bigImage": "/images/midnightmuse-large.png",
+      "nsfwLevel": "High",
+      "pricingTier": "Freemium",
+      "categories": ["AI Story Generator", "AI Porn"],
+      "numApps": 4,
+      "numUsers": 1500000,
+      "platforms": ["Web"],
+      "features": [
+        "Live prompt rewriting",
+        "Dark mode reader",
+        "Tag-based filtering",
+        "AI narrator styles",
+        "NSFW intensity control"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "SextAI",
+      "excerpt": "Text-based erotic companion that remembers preferences, learns fetishes, and simulates natural interaction.",
+      "icon": "/icons/sextai.png",
+      "bigImage": "/images/sextai-large.png",
+      "nsfwLevel": "High",
+      "pricingTier": "Paid",
+      "categories": ["AI Sexting Companion", "AI BDSM & Fetish"],
+      "numApps": 3,
+      "numUsers": 850000,
+      "platforms": ["iOS", "Android", "Web"],
+      "features": [
+        "Memory and personality learning",
+        "Kink-aware modes",
+        "Voice reply (optional)",
+        "Custom persona builder",
+        "Conversation scoring"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "NudeFusion",
+      "excerpt": "Advanced AI tool to generate high-quality nude renders from prompts or reference photos.",
+      "icon": "/icons/nudefusion.png",
+      "bigImage": "/images/nudefusion-large.png",
+      "nsfwLevel": "High",
+      "pricingTier": "Freemium",
+      "categories": ["AI Nudify", "AI Photo and Video Editor"],
+      "numApps": 2,
+      "numUsers": 670000,
+      "platforms": ["Windows", "Web"],
+      "features": [
+        "Text-to-image nudify",
+        "Skin tone correction",
+        "Batch render support",
+        "Multi-angle processing",
+        "Cloud rendering"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "RoleBotX",
+      "excerpt": "Roleplay-oriented chatbot with toggles for dominant/submissive tones, LGBTQ support, and live feedback correction.",
+      "icon": "/icons/rolebotx.png",
+      "bigImage": "/images/rolebotx-large.png",
+      "nsfwLevel": "Medium",
+      "pricingTier": "Freemium",
+      "categories": ["AI Chatbot", "AI BDSM & Fetish", "AI Gay"],
+      "numApps": 2,
+      "numUsers": 920000,
+      "platforms": ["Web"],
+      "features": [
+        "Dynamic chat memory",
+        "Tone sliders",
+        "Safe-mode toggle",
+        "Realistic kink phrasing",
+        "Fantasy settings"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Animai",
+      "excerpt": "Stylized NSFW anime character creator with realistic skin shading, animation-ready poses, and emotion presets.",
+      "icon": "/icons/animai.png",
+      "bigImage": "/images/animai-large.png",
+      "nsfwLevel": "High",
+      "pricingTier": "Freemium",
+      "categories": ["AI Anime", "AI Image Generator"],
+      "numApps": 4,
+      "numUsers": 2000000,
+      "platforms": ["Web"],
+      "features": [
+        "Style blending",
+        "Multiple pose presets",
+        "Expression mapping",
+        "Model import/export",
+        "Fan-art creation support"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "FaceMorphNSFW",
+      "excerpt": "Upload two faces and generate an adult image combining styles, expressions, and anatomical structure.",
+      "icon": "/icons/facemorphnsfw.png",
+      "bigImage": "/images/facemorphnsfw-large.png",
+      "nsfwLevel": "High",
+      "pricingTier": "Paid",
+      "categories": ["AI Face Swap", "AI Porn", "AI Photo and Video Editor"],
+      "numApps": 1,
+      "numUsers": 440000,
+      "platforms": ["Web"],
+      "features": [
+        "Blend ratio slider",
+        "Photo-realistic output",
+        "Privacy-focused uploads",
+        "Facial similarity detection",
+        "Face morph animation"
+      ]
+    }
+  ]
+}

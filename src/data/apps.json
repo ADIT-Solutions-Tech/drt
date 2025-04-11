@@ -1,0 +1,404 @@
+  [
+    {
+      "id": 1,
+      "name": "AppNameAI1",
+      "excerpt": "Responsive design with creative controls for text, audio, and image generation. Explore taboo topics in a safe, gamified way with privacy-first design.",
+      "icon": "/icons/app1.png",
+      "bigImage": "/images/app1-large.png",
+      "nsfwLevel": "Medium",
+      "pricingTier": "Paid",
+      "categories": ["Business", "Safe for Work", "Education"]
+    },
+    {
+      "id": 2,
+      "name": "AppNameAI2",
+      "excerpt": "AI-powered chatbot designed for interactive storytelling and NSFW scenarios.",
+      "icon": "/icons/app2.png",
+      "bigImage": "/images/app2-large.png",
+      "nsfwLevel": "None",
+      "pricingTier": "Freemium",
+      "categories": ["Productivity", "AI Voice Generator", "Creative"]
+    },
+    {
+      "id": 3,
+      "name": "AppNameAI3",
+      "excerpt": "Includes deep prompt tuning and memory recall to simulate immersive engagement. Streamline content creation with intuitive tools for voice synthesis and scenario building.",
+      "icon": "/icons/app3.png",
+      "bigImage": "/images/app3-large.png",
+      "nsfwLevel": "High",
+      "pricingTier": "Paid",
+      "categories": ["AI Chatbot", "Business"]
+    },
+    {
+      "id": 4,
+      "name": "AppNameAI4",
+      "excerpt": "Trained on adult dialogue for authentic responses — customizable tone and behavior.",
+      "icon": "/icons/app4.png",
+      "bigImage": "/images/app4-large.png",
+      "nsfwLevel": "Medium",
+      "pricingTier": "Freemium",
+      "categories": ["Entertainment", "Safe for Work"]
+    },
+    {
+      "id": 5,
+      "name": "AppNameAI5",
+      "excerpt": "Perfect for erotic short stories or moodboarding characters with art tools.",
+      "icon": "/icons/app5.png",
+      "bigImage": "/images/app5-large.png",
+      "nsfwLevel": "High",
+      "pricingTier": "Paid",
+      "categories": ["Creative", "AI Image Generator", "NSFW"]
+    },
+    {
+      "id": 6,
+      "name": "AppNameAI6",
+      "excerpt": "Your AI assistant for romantic or adult companionship with media integration. Clean, lightweight, and includes memory support, prompts, and advanced features.",
+      "icon": "/icons/app6.png",
+      "bigImage": "/images/app6-large.png",
+      "nsfwLevel": "None",
+      "pricingTier": "Freemium",
+      "categories": ["Dating", "Companion", "Mental Health"]
+    },
+    {
+      "id": 7,
+      "name": "AppNameAI7",
+      "excerpt": "Generate unique, high-quality adult content with full control and customization.",
+      "icon": "/icons/app7.png",
+      "bigImage": "/images/app7-large.png",
+      "nsfwLevel": "High",
+      "pricingTier": "Free",
+      "categories": ["NSFW", "AI Writing", "Entertainment"]
+    },
+    {
+      "id": 8,
+      "name": "AppNameAI8",
+      "excerpt": "Clean, lightweight, and includes memory support, prompts, and advanced features. Low-latency performance for real-time interactions, perfect for voice-enabled AIs.",
+      "icon": "/icons/app8.png",
+      "bigImage": "/images/app8-large.png",
+      "nsfwLevel": "Medium",
+      "pricingTier": "Freemium",
+      "categories": ["AI Voice Generator", "Companion"]
+    },
+    {
+      "id": 9,
+      "name": "AppNameAI9",
+      "excerpt": "Streamline content creation with intuitive tools for voice synthesis and scenario building.",
+      "icon": "/icons/app9.png",
+      "bigImage": "/images/app9-large.png",
+      "nsfwLevel": "None",
+      "pricingTier": "Paid",
+      "categories": ["Productivity", "Education"]
+    },
+    {
+      "id": 10,
+      "name": "AppNameAI10",
+      "excerpt": "Trained on adult dialogue for authentic responses — customizable tone and behavior. Responsive design with creative controls for text, audio, and image generation.",
+      "icon": "/icons/app10.png",
+      "bigImage": "/images/app10-large.png",
+      "nsfwLevel": "Medium",
+      "pricingTier": "Free",
+      "categories": ["AI Chatbot", "Creative", "NSFW"]
+    },
+    {
+      "id": 11,
+      "name": "LuxorAI",
+      "excerpt": "Science every expert draw power accept.",
+      "icon": "/icons/luxorai.png",
+      "bigImage": "/images/luxorai-large.png",
+      "nsfwLevel": "Medium",
+      "pricingTier": "Freemium",
+      "categories": ["AI Chatbot", "Business", "Safe for Work"]
+    },
+    {
+      "id": 12,
+      "name": "EchoWriteAI",
+      "excerpt": "Sing simple structure summer drive step.",
+      "icon": "/icons/echowriteai.png",
+      "bigImage": "/images/echowriteai-large.png",
+      "nsfwLevel": "None",
+      "pricingTier": "Free",
+      "categories": ["AI Writing", "Education", "Productivity"]
+    },
+    {
+      "id": 13,
+      "name": "DreamVoiceAI",
+      "excerpt": "Fight eight north daughter describe join pass.",
+      "icon": "/icons/dreamvoiceai.png",
+      "bigImage": "/images/dreamvoiceai-large.png",
+      "nsfwLevel": "High",
+      "pricingTier": "Paid",
+      "categories": ["AI Voice Generator", "Creative", "NSFW"]
+    },
+    {
+      "id": 14,
+      "name": "MuseGenAI",
+      "excerpt": "Four activity design government.",
+      "icon": "/icons/musegenai.png",
+      "bigImage": "/images/musegenai-large.png",
+      "nsfwLevel": "Medium",
+      "pricingTier": "Paid",
+      "categories": ["AI Music", "Entertainment", "Dating"]
+    },
+    {
+      "id": 15,
+      "name": "VisionMakerAI",
+      "excerpt": "Executive model great range move million beat.",
+      "icon": "/icons/visionmakerai.png",
+      "bigImage": "/images/visionmakerai-large.png",
+      "nsfwLevel": "None",
+      "pricingTier": "Freemium",
+      "categories": ["AI Image Generator", "Safe for Work", "Business"]
+    },
+    {
+      "id": 16,
+      "name": "TextSparkAI",
+      "excerpt": "Visit treat analysis father wall.",
+      "icon": "/icons/textsparkai.png",
+      "bigImage": "/images/textsparkai-large.png",
+      "nsfwLevel": "High",
+      "pricingTier": "Free",
+      "categories": ["AI Writing", "Entertainment", "NSFW"]
+    },
+    {
+      "id": 17,
+      "name": "FlowTuneAI",
+      "excerpt": "Yes edge every threat trade partner.",
+      "icon": "/icons/flowtuneai.png",
+      "bigImage": "/images/flowtuneai-large.png",
+      "nsfwLevel": "None",
+      "pricingTier": "Freemium",
+      "categories": ["AI Music", "Companion", "Creative"]
+    },
+    {
+      "id": 18,
+      "name": "NovaFrameAI",
+      "excerpt": "Campaign network soldier between detail become.",
+      "icon": "/icons/novaframeai.png",
+      "bigImage": "/images/novaframeai-large.png",
+      "nsfwLevel": "Medium",
+      "pricingTier": "Paid",
+      "categories": ["AI Video Editor", "Education", "Business"]
+    },
+    {
+      "id": 19,
+      "name": "SparkMateAI",
+      "excerpt": "Camera type forget charge style deal.",
+      "icon": "/icons/sparkmateai.png",
+      "bigImage": "/images/sparkmateai-large.png",
+      "nsfwLevel": "High",
+      "pricingTier": "Paid",
+      "categories": ["AI Chatbot", "NSFW", "Companion"]
+    },
+    {
+      "id": 20,
+      "name": "InkBotAI",
+      "excerpt": "Page consider art old level blood leave.",
+      "icon": "/icons/inkbotai.png",
+      "bigImage": "/images/inkbotai-large.png",
+      "nsfwLevel": "None",
+      "pricingTier": "Freemium",
+      "categories": ["AI Writing", "Productivity", "Education"]
+    },
+  {
+    "id": 21,
+    "name": "PixelMeldAI",
+    "excerpt": "Person effect edge create cost smile direction.",
+    "icon": "/icons/pixelmeldai.png",
+    "bigImage": "/images/pixelmeldai-large.png",
+    "nsfwLevel": "Medium",
+    "pricingTier": "Free",
+    "categories": ["AI Image Generator", "Creative", "Entertainment"]
+  },
+  {
+    "id": 22,
+    "name": "ScribeAI",
+    "excerpt": "Research child professional fear risk.",
+    "icon": "/icons/scribeai.png",
+    "bigImage": "/images/scribeai-large.png",
+    "nsfwLevel": "None",
+    "pricingTier": "Freemium",
+    "categories": ["AI Writing", "Safe for Work", "Productivity"]
+  },
+  {
+    "id": 23,
+    "name": "JamPilotAI",
+    "excerpt": "Rest shoulder break popular improve exist.",
+    "icon": "/icons/jampilotai.png",
+    "bigImage": "/images/jampilotai-large.png",
+    "nsfwLevel": "Medium",
+    "pricingTier": "Paid",
+    "categories": ["AI Music", "Entertainment", "Creative"]
+  },
+  {
+    "id": 24,
+    "name": "VibeCastAI",
+    "excerpt": "Chair vote describe forget chance.",
+    "icon": "/icons/vibecastai.png",
+    "bigImage": "/images/vibecastai-large.png",
+    "nsfwLevel": "High",
+    "pricingTier": "Free",
+    "categories": ["AI Voice Generator", "Dating", "Companion"]
+  },
+  {
+    "id": 25,
+    "name": "QuickSceneAI",
+    "excerpt": "Executive protect laugh thank total.",
+    "icon": "/icons/quicksceneai.png",
+    "bigImage": "/images/quicksceneai-large.png",
+    "nsfwLevel": "None",
+    "pricingTier": "Freemium",
+    "categories": ["AI Video Editor", "Education", "Entertainment"]
+  },
+  {
+    "id": 26,
+    "name": "BardifyAI",
+    "excerpt": "Local professional lose support side miss food.",
+    "icon": "/icons/bardifyai.png",
+    "bigImage": "/images/bardifyai-large.png",
+    "nsfwLevel": "None",
+    "pricingTier": "Free",
+    "categories": ["AI Chatbot", "Safe for Work", "Business"]
+  },
+  {
+    "id": 27,
+    "name": "GlamPromptAI",
+    "excerpt": "Believe TV especially seat range health.",
+    "icon": "/icons/glampromptai.png",
+    "bigImage": "/images/glampromptai-large.png",
+    "nsfwLevel": "High",
+    "pricingTier": "Freemium",
+    "categories": ["AI Image Generator", "NSFW", "Creative"]
+  },
+  {
+    "id": 28,
+    "name": "SyncNarrateAI",
+    "excerpt": "Build care administration value happen skill.",
+    "icon": "/icons/syncnarrateai.png",
+    "bigImage": "/images/syncnarrateai-large.png",
+    "nsfwLevel": "Medium",
+    "pricingTier": "Paid",
+    "categories": ["AI Voice Generator", "Productivity", "Education"]
+  },
+  {
+    "id": 29,
+    "name": "LyricSmithAI",
+    "excerpt": "Spend understand decide kind relate yourself.",
+    "icon": "/icons/lyricsmithai.png",
+    "bigImage": "/images/lyricsmithai-large.png",
+    "nsfwLevel": "None",
+    "pricingTier": "Freemium",
+    "categories": ["AI Music", "Creative", "Mental Health"]
+  },
+  {
+    "id": 30,
+    "name": "CamMuseAI",
+    "excerpt": "Itself item real measure teach family role.",
+    "icon": "/icons/cammuseai.png",
+    "bigImage": "/images/cammuseai-large.png",
+    "nsfwLevel": "Medium",
+    "pricingTier": "Paid",
+    "categories": ["AI Video Editor", "Entertainment", "Business"]
+  },
+  {
+    "id": 31,
+    "name": "TutorBotAI",
+    "excerpt": "Stand network foreign mouth class often ability.",
+    "icon": "/icons/tutorbotai.png",
+    "bigImage": "/images/tutorbotai-large.png",
+    "nsfwLevel": "None",
+    "pricingTier": "Free",
+    "categories": ["AI Chatbot", "Education", "Safe for Work"]
+  },
+  {
+    "id": 32,
+    "name": "PromptifyAI",
+    "excerpt": "Speak identify market structure strategy.",
+    "icon": "/icons/promptifyai.png",
+    "bigImage": "/images/promptifyai-large.png",
+    "nsfwLevel": "High",
+    "pricingTier": "Freemium",
+    "categories": ["AI Writing", "NSFW", "Creative"]
+  },
+  {
+    "id": 33,
+    "name": "AudioSyncAI",
+    "excerpt": "Event authority crime must center answer leader.",
+    "icon": "/icons/audiosyncai.png",
+    "bigImage": "/images/audiosyncai-large.png",
+    "nsfwLevel": "None",
+    "pricingTier": "Free",
+    "categories": ["AI Voice Generator", "Productivity"]
+  },
+  {
+    "id": 34,
+    "name": "VerseWaveAI",
+    "excerpt": "Build product campaign yard.",
+    "icon": "/icons/versewaveai.png",
+    "bigImage": "/images/versewaveai-large.png",
+    "nsfwLevel": "Medium",
+    "pricingTier": "Freemium",
+    "categories": ["AI Music", "Companion", "Entertainment"]
+  },
+  {
+    "id": 35,
+    "name": "EditEaseAI",
+    "excerpt": "Soon especially appear cover anyone.",
+    "icon": "/icons/editeaseai.png",
+    "bigImage": "/images/editeaseai-large.png",
+    "nsfwLevel": "None",
+    "pricingTier": "Paid",
+    "categories": ["AI Video Editor", "Business", "Safe for Work"]
+  },
+  {
+    "id": 36,
+    "name": "MuseNoteAI",
+    "excerpt": "Back return minute strategy fine range.",
+    "icon": "/icons/musenoteai.png",
+    "bigImage": "/images/musenoteai-large.png",
+    "nsfwLevel": "High",
+    "pricingTier": "Paid",
+    "categories": ["AI Music", "NSFW", "Entertainment"]
+  },
+  {
+    "id": 37,
+    "name": "WriteMateAI",
+    "excerpt": "Image artist imagine drop writer meet newspaper.",
+    "icon": "/icons/writemateai.png",
+    "bigImage": "/images/writemateai-large.png",
+    "nsfwLevel": "Medium",
+    "pricingTier": "Free",
+    "categories": ["AI Writing", "Creative", "Mental Health"]
+  },
+  {
+    "id": 38,
+    "name": "RenderWaveAI",
+    "excerpt": "Still lose true pattern recently visit apply.",
+    "icon": "/icons/renderwaveai.png",
+    "bigImage": "/images/renderwaveai-large.png",
+    "nsfwLevel": "High",
+    "pricingTier": "Freemium",
+    "categories": ["AI Video Editor", "NSFW", "Business"]
+  },
+  {
+    "id": 39,
+    "name": "MindMuseAI",
+    "excerpt": "Response assume miss participant send shoulder.",
+    "icon": "/icons/mindmuseai.png",
+    "bigImage": "/images/mindmuseai-large.png",
+    "nsfwLevel": "None",
+    "pricingTier": "Paid",
+    "categories": ["AI Chatbot", "Mental Health", "Companion"]
+  },
+  {
+    "id": 40,
+    "name": "BlogBotAI",
+    "excerpt": "Trouble growth friend risk research story.",
+    "icon": "/icons/blogbotai.png",
+    "bigImage": "/images/blogbotai-large.png",
+    "nsfwLevel": "Medium",
+    "pricingTier": "Freemium",
+    "categories": ["AI Writing", "Productivity", "Business"]
+  }
+]
+
+  

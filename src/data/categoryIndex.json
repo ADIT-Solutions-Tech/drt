@@ -1,0 +1,33 @@
+[
+    {
+      "name": "AI Chatbot",
+      "count": 160,
+      "examples": ["ChatSweetie", "Lovescape", "Hottalks.ai"]
+    },
+    {
+      "name": "AI Image Generator",
+      "count": 201,
+      "examples": ["StarryAI", "Tensor.Art", "ZMO.ai"]
+    },
+    {
+      "name": "AI Writing",
+      "count": 118,
+      "examples": ["WriteMateAI", "PromptifyAI", "InkBotAI"]
+    },
+    {
+      "name": "AI Voice Generator",
+      "count": 84,
+      "examples": ["AudioSyncAI", "SyncNarrateAI", "NashAI"]
+    },
+    {
+      "name": "AI Music",
+      "count": 109,
+      "examples": ["FlowTuneAI", "VerseWaveAI", "MuseNoteAI"]
+    },
+    {
+      "name": "AI Video Editor",
+      "count": 93,
+      "examples": ["EditEaseAI", "RenderWaveAI", "NovaFrameAI"]
+    }
+  ]
+  
