@@ -1,0 +1,9 @@
+{
+    "apps": [
+      {
+        "name": "drt.front",
+        "script": "npm",
+        "args": "start"
+      }
+    ]
+  }

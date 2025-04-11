@@ -1,0 +1,22 @@
+name: Deploy DRT
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy-frontend:
+    name: Deploy Frontend
+    runs-on: [self-hosted]
+
+    steps:
+    - name: Install App Dependencies
+      run: |
+        npm install
+    - name: Build Next Application
+      run: |
+        npm run build
+    - name: Start PM2
+      run: |
+        pm2 delete --silent drt.front || :; pm2 start pm2.config.json
