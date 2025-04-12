@@ -1,9 +1,9 @@
 {
     "apps": [
-      {
-        "name": "drt.front",
-        "script": "npm",
-        "args": "start"
-      }
+        {
+            "name": "drt.front",
+            "script": "npx",
+            "args": " serve dist/ --single -p 3002"
+        }
     ]
-  }
+}
